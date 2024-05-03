@@ -13,5 +13,5 @@ Was given complete Horiseon website to evaluate and optimize. steps taken to opt
 ## links
 [githubrepolink](https://github.com/RyuVue/Challenge-1)
 
-[githubchallengedeploy](http://127.0.0.1:5500/index.html)
+[githubchallengedeploy](https://ryuvue.github.io/Challenge-1/)
 
